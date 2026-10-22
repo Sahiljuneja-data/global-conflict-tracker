@@ -1,5 +1,6 @@
-Location,Latitude,Longitude,Type,Status
-Ukraine,48.3794,31.1656,Armed Conflict,Active
-Sudan,15.5007,32.5599,Civil War,Active
-Gaza Strip,31.3547,34.3088,Armed Conflict,Active
-Darian Gap,8.0000,-77.5000,Migration Route,Active
+Location,Latitude,Longitude,Type,Status,Region,Impact_Level,Background,Strategic_Impact
+Ukraine,48.3794,31.1656,Armed Conflict,Active,Europe & Eurasia,Critical,"Full-scale interstate conflict following Russia's invasion, involving heavy artillery, trench warfare, and long-range strike capabilities.","Major threat to European security architecture, global energy markets, and international food supply chains."
+Sudan,12.8628,30.2176,Civil War,Escalating,Sub-Saharan Africa,Critical,"Power struggle between the Sudanese Armed Forces (SAF) and the Rapid Support Forces (RSF), causing severe urban fighting and displacement.","Risk of destabilizing the Horn of Africa, mass refugee displacement, and regional proxy intervention."
+Gaza Strip,31.3547,34.3088,Armed Conflict,Critical,Middle East & North Africa,Critical,"Active military operations and heavy bombardment following escalations in late 2023, causing humanitarian crises.","High risk of wider regional escalation involving regional non-state actors and key maritime shipping routes."
+South China Sea,12.0000,114.0000,Territorial Dispute,Changing,Asia-Pacific,High,"Overlapping territorial and maritime claims between China and neighboring Southeast Asian nations over strategic waterways.","Critical for global maritime trade paths, freedom of navigation, and Indo-Pacific security alliances."
+Darien Gap,8.0000,-77.5000,Migration Route,Active,Americas,Moderate,"Dense jungle corridor used by illicit trafficking networks and hundreds of thousands of irregular migrants moving north.","Presents significant humanitarian, border security, and transnational crime challenges across Latin America."
